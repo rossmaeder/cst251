@@ -3,20 +3,20 @@ body {
     background-color: blue;
     padding: 30px;
     font-size: 100%;
-}
+  }
 p {
-color: red
+color: red;
 margin-left: 30px;
 font-size: 110%;
 }
 
 h1 {
-    font-family: "Courier New", monospace;
+      font-family: "Courier New", monospace;
 }
 div#content {
     padding: 50px;
     background-color: white;
-    border: solid1px #333333;
+    border: solid 1px #333333;
     height: 80vh;
 }
 
@@ -27,7 +27,7 @@ img {
 }
 div#image {
     padding: 100px;
-    background-color: white
+    background-color: white;
     border: solid 2px #333333;
     margin-right: 30px;
     float: right;
