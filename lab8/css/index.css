@@ -23,7 +23,7 @@ p.results {
     font-size: 120%;
 }
 h1 {
-    font-family: "Impact", Charcoal, serif;
+    font-family: "Impact", Charcoal, sans-serif;
 }
 img {
     width: 550px;
@@ -45,6 +45,6 @@ div#content {
     marfin-left: auto;
 }
 nav {
-    font-family: "Comic Sans MS", cursive, serif;
+    font-family: "Comic Sans MS", cursive, sans-serif;
     float: left;
 }
