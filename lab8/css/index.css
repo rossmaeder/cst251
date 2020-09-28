@@ -13,7 +13,7 @@ p.challenge {
     font-size: 120%;
 }
 p.problems {
-    color: green;
+    color: white;
     margin-left: 30px;
     font-size: 120%;
 }
@@ -23,7 +23,7 @@ p.results {
     font-size: 120%;
 }
 h1 {
-    font-family: "Impact", Charcoal, sans-serif;
+    font-family: "Impact", Charcoal, serif;
 }
 img {
     width: 550px;
@@ -38,13 +38,13 @@ div#content, img {
     height: 60vh;
     position: relative;
     margin-right: auto;
-    border-style: dashed;
+    border-style: groove;
 }
 div#content {
     text-align: left;
     marfin-left: auto;
 }
 nav {
-    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-family: "Comic Sans MS", cursive, serif;
     float: left;
 }
