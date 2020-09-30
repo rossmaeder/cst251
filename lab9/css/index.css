@@ -1,5 +1,5 @@
 html {
-    background-color:silver
+    background-color: gray;
     padding: 20px;
     font-size: 100%;
     margin-left;
@@ -7,9 +7,9 @@ html {
 #content, #image {
     padding: 50px, purple;
     background: 50px;
-    background-color: black
+    background-color: black;
     border-radius: 30px;
-    border-style: outset
+    border-style: outset;
     border-color: white;
 }
 #image {
@@ -26,7 +26,7 @@ p {
 }
 img {
     width: 200px;
-    background: black
+    background: black;
 }
 h1 {
     font-family: "Times New Roman", Times, fantasy;
