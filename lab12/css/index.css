@@ -4,7 +4,7 @@ html {
       font-size: 100%;
 }
 div {
-    width: 25%;
+    width: 30%;
     border-style: outset, 2px;
     border-color: white;
 }
@@ -35,7 +35,7 @@ img {
     float: right;
 }
 #center-horz {
-    align: center;
+    align: right;
     border: 1px solid black;
     margin: 0;
     position: absolute;
