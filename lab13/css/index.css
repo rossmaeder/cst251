@@ -1,0 +1,26 @@
+html {
+    align: center;
+    text-align: center;
+}
+iframe#fake {
+    width: 1200px;
+    height: 600px;
+    resize: both;
+    overflow: hidden;
+}
+html {
+    background-color: white;
+}
+p {
+    margin-right: 50px;
+    font-family: "Courier New", Courier, monospace;
+    color: black;
+}
+h1, p {
+    align-content: center;
+    width: 30%;
+}
+h1, p {
+    margin-left: auto;
+    margin-right: auto;
+}
