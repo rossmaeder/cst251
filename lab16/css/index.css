@@ -1,0 +1,49 @@
+html {
+    background-image:url(../img/lagif.gif), url(../img/laatnight.jpeg);
+    background-position: right bottom,left top;
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+}
+body {
+    background-color: black;
+    padding: 20px;
+    font-family: 'Times New Roman', monospace;
+    width: 60%;
+    border-radius: 0 25px;
+    border: 2px white solid;
+    margin-left: auto;
+    margin-top: 100px;
+    margin-right: auto;
+    box-shadow: 5px 5px grey;
+}
+#content {
+    column-count: 3;
+}
+#la {
+    position: relative;
+    width: 200px;
+    height: auto;
+    transition: all 1s;
+}
+#la :hover {
+    width: 500px;
+    filter: brightness(160%);
+}
+p {
+    color: white;
+    text-shadow: -1px 0 black,
+    0 1px black,
+    1px 0 black,
+    0 -1px black;
+}
+a {
+    float: left;
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    padding: 30px;
+    text-shadow: -1px 0 black,
+    0 1px black,
+    1px 0 black,
+    0 -1px black;
+}
