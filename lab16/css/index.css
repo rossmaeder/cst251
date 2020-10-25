@@ -1,5 +1,5 @@
 html {
-    background-image:url(../img/lagif.gif), url(../img/laatnight.jpeg);
+    background-image:url(../img/lakers.gif), url(../img/laatnight.jpeg);
     background-position: right bottom,left top;
     background-repeat: no-repeat, repeat;
     background-size: cover;
@@ -7,7 +7,7 @@ html {
 body {
     background-color: navy blue;
     padding: 20px;
-    font-family: 'Times New Roman', monospace;
+    font-family: 'Abril Fatface', cursive;
     width: 60%;
     border-radius: 0 25px;
     border: 2px white solid;
