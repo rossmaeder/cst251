@@ -1,0 +1,33 @@
+html {
+    background-color: white;
+}
+nav {
+    border: solid 3px black;
+    text-align: center;
+    text-decoration: none;
+}
+header {
+    border: solid 3px black;
+    text-align: center;
+}
+footer {
+    border: solid 3px black;
+    text-align: center;
+}
+main {
+    border: solid 3px black;
+}
+aside {
+    border: solid 3px black;
+}
+.grid-box1 {
+    display: grid;
+    grid-template-columns: auto;
+    grid-gap: 5px 10px;
+}
+.grid-box2 {
+    text-align: center;
+    display: grid;
+    grid-template-columns: auto;
+    grid-gap: 5px 10px 5px 5px;
+}

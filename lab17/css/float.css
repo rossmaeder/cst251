@@ -1,0 +1,44 @@
+html {
+    background-color: white;
+}
+header {
+    border: solid 3px black;
+    background: lightblue;
+    margin-right: 370px;
+    position: auto;
+    top: 0;
+    width: 50%;
+    margin-left: 20px;
+}
+nav {
+    border: solid 3px black;
+    background: lightblue;
+    float: right;
+    position: auto;
+    right: 0;
+}
+main {
+    border: solid 3px black;
+    background: lightblue;
+    height: lightblue;
+    width: 60%;
+    text-align: center;
+    margin-top: 40px;
+    float: left;
+}
+aside {
+    border: solid 3px black;
+    background: lightblue;
+    margin-top: 15px;
+    float: left;
+    margin-left: 150px;
+}
+footer {
+    align: center;
+    border: solid 3px black;
+    background: lightblue;
+    text: 10px;
+    text-align: center;
+    margin-top: 670px;
+    width: 75%;
+}
