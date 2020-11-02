@@ -29,7 +29,7 @@ aside {
 }
 .flex2 {
     display: flex;
-    justify-content: center;
+    align-content: center;
 }
 .box1 {
     flex-grow: 2;
