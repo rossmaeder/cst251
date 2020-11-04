@@ -1,0 +1,50 @@
+html {
+    background-color: white;
+    text-align: center;
+    font-family: 'Abril Fatface', cursive;
+}
+nav {
+    border: solid 3px black;
+    box-shadow: 5px 5px brown;
+}
+a {
+    text-shadow: none:
+}
+header {
+    border: solid 3px black;
+    box-shadow: 5px 5px brown;
+}
+footer {
+    border: solid 3px black;
+    box-shadow: 5px 5px red;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+    align-items: center;
+}
+@media screen and (max-width:600px){
+    .box6, .box3, .box4 {
+        width: 100%;
+    }
+}
+main {
+    border: solid 3px black;
+    box-shadow: 5px 0px brown;
+}
+.flex1 {
+    display: flex;
+    justify-content: center;
+    flex-direction: row-reverse;
+}
+.flex2 {
+    flex-grow: 2;
+    height: auto;
+    padding: 40px;
+}
+.box4 {
+    flex-grow: 2;
+}
+.box6 {
+    flex-grow: 1;
+    border: solid 3px black;
+}
