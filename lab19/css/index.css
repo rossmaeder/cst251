@@ -1,0 +1,12 @@
+nav {
+    border: solid 3px blue;
+    box-shadow: 5px 0px black;
+}
+.row {
+    border: solid 3px blue;
+    box-shadow: 5px 5px black;
+}
+.column {
+    border: solid 3px blue;
+    box-shadow: 5px 5px blue;
+}
